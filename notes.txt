@@ -1,0 +1,10 @@
+kubernetes is an open source project from google.
+GKE is a managed service that provide some additional features above kubernetes.
+infrastructure is managed by cloud
+provesioning the cluster
+
+COS image
+
+kubectl top nodes
+
+deamon sets. degault namespace all namespace
